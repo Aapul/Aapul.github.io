@@ -1,0 +1,30 @@
+/*Sam Aguilar Purpose:styles the home page*/
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3cqmin solid rgb(197, 85, 85);
+    text-align: center;
+}
+
+div {
+    background-color: rgba(253, 204, 172, 0.734);
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.division1 {
+    background-image: url(img/background2.gif);
+}
+
+body {
+    text-align: center;
+}
