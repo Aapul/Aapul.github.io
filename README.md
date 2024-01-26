@@ -1,2 +1,1 @@
-# Aapul.github.io
-My Github Pages site
+# My Github Pages site
