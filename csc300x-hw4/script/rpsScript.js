@@ -1,6 +1,7 @@
 //This JS file is for controlling the functionality of the 
 //Rock-Paper-Scissors game
 
+
 //Sola
 var wins = 0;
 var losses = 0;
